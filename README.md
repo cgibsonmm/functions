@@ -129,7 +129,7 @@ const pickADescriptiveName = function() {
 }
 // 'pickADescriptiveName' is the function name
 // 'function' is the keyword that declares a function
-// parentheses is needed an can have optional parameters
+// parentheses is needed and can have optional or multiple parameters
 ```
 
 Have you ever tried to move forward to the next page of an online form, only to be greeted by an alert that says "Please fill out all the required fields"?
