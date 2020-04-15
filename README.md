@@ -113,7 +113,9 @@ Now we know what functions are and why we use them. But how do we create them?
 
 As you saw in our movie example, just as we do with a variable, we must define a function before we call or "use" it.
 
-In JS, functions can be defined in several ways. Two of the more common methods of defining a function are **function expression** and **function declaration**.
+In JS, functions can be defined in several ways. Two of the more common methods of defining a function are:
+ - **function expression**
+ - **function declaration**.
 
 #### Function Expressions - Overview
 
