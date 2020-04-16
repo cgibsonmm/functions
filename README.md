@@ -221,18 +221,8 @@ Here is an example of a function with four strings as parameters:
 
 ```js
 const greetUser = function(firstName, lastName, year, city) {
-  console.log(
-    'Hello ' +
-      firstName +
-      ' ' +
-      lastName +
-      ' born in ' +
-      year +
-      ' from ' +
-      city +
-      '!',
-  );
-};
+  console.log(`Hello ${firstName} ${lastName}, I was born in ${year} and I'm from ${city}.`)
+}
 ```
 
 > Check: What would happen if we called the function with the following arguments?
