@@ -9,8 +9,8 @@ _After this lesson, you will be able to:_
 - Give the definition of a function
 - Identify the parts of a function
 - Differentiate between function expression and declaration
-- Define a function in an object
-- Pass a function as a parameter
+- Introduce scope
+- Hoisting
 
 ## Opening
 
